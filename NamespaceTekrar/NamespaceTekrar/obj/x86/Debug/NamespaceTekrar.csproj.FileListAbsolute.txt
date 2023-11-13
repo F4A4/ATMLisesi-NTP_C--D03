@@ -1,0 +1,20 @@
+C:\Documents and Settings\THR01\Desktop\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\THR01\Desktop\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\NamespaceTekrar.Properties.Resources.resources
+C:\Documents and Settings\THR01\Desktop\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\THR01\Desktop\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\THR01\Desktop\NamespaceTekrar\NamespaceTekrar\bin\Debug\NamespaceTekrar.exe
+C:\Documents and Settings\THR01\Desktop\NamespaceTekrar\NamespaceTekrar\bin\Debug\NamespaceTekrar.pdb
+C:\Documents and Settings\THR01\Desktop\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\NamespaceTekrar.Form1.resources
+C:\Documents and Settings\THR01\Desktop\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\NamespaceTekrar.exe
+C:\Documents and Settings\THR01\Desktop\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\NamespaceTekrar.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\NamespaceTekrar.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\bin\Debug\NamespaceTekrar.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\bin\Debug\NamespaceTekrar.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\NamespaceTekrar.Form1.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\NamespaceTekrar.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\NamespaceTekrar.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\NamespaceTekrar.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\NamespaceTekrar\NamespaceTekrar\obj\x86\Debug\NamespaceTekrar.pdb

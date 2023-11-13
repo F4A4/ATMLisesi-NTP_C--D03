@@ -1,0 +1,20 @@
+C:\Documents and Settings\THR01\Desktop\DegiskenlerTekrar\DegiskenlerTekrar\bin\Debug\DegiskenlerTekrar.exe
+C:\Documents and Settings\THR01\Desktop\DegiskenlerTekrar\DegiskenlerTekrar\bin\Debug\DegiskenlerTekrar.pdb
+C:\Documents and Settings\THR01\Desktop\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\THR01\Desktop\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\DegiskenlerTekrar.Form1.resources
+C:\Documents and Settings\THR01\Desktop\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\DegiskenlerTekrar.Properties.Resources.resources
+C:\Documents and Settings\THR01\Desktop\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\THR01\Desktop\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\THR01\Desktop\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\DegiskenlerTekrar.exe
+C:\Documents and Settings\THR01\Desktop\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\DegiskenlerTekrar.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\DegiskenlerTekrar.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\bin\Debug\DegiskenlerTekrar.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\bin\Debug\DegiskenlerTekrar.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\DegiskenlerTekrar.Form1.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\DegiskenlerTekrar.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\DegiskenlerTekrar.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\DegiskenlerTekrar.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\DegiskenlerTekrar\DegiskenlerTekrar\obj\x86\Debug\DegiskenlerTekrar.pdb

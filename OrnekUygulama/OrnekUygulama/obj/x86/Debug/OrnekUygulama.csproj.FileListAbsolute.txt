@@ -1,0 +1,19 @@
+C:\Documents and Settings\THR01\Desktop\OrnekUygulama\OrnekUygulama\bin\Debug\OrnekUygulama.exe
+C:\Documents and Settings\THR01\Desktop\OrnekUygulama\OrnekUygulama\bin\Debug\OrnekUygulama.pdb
+C:\Documents and Settings\THR01\Desktop\OrnekUygulama\OrnekUygulama\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\THR01\Desktop\OrnekUygulama\OrnekUygulama\obj\x86\Debug\OrnekUygulama.Form1.resources
+C:\Documents and Settings\THR01\Desktop\OrnekUygulama\OrnekUygulama\obj\x86\Debug\OrnekUygulama.Properties.Resources.resources
+C:\Documents and Settings\THR01\Desktop\OrnekUygulama\OrnekUygulama\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\THR01\Desktop\OrnekUygulama\OrnekUygulama\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\THR01\Desktop\OrnekUygulama\OrnekUygulama\obj\x86\Debug\OrnekUygulama.exe
+C:\Documents and Settings\THR01\Desktop\OrnekUygulama\OrnekUygulama\obj\x86\Debug\OrnekUygulama.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\3.GÜN\OrnekUygulama\OrnekUygulama\obj\x86\Debug\OrnekUygulama.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\OrnekUygulama\OrnekUygulama\obj\x86\Debug\OrnekUygulama.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\OrnekUygulama\OrnekUygulama\bin\Debug\OrnekUygulama.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\OrnekUygulama\OrnekUygulama\bin\Debug\OrnekUygulama.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\OrnekUygulama\OrnekUygulama\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\OrnekUygulama\OrnekUygulama\obj\x86\Debug\OrnekUygulama.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\OrnekUygulama\OrnekUygulama\obj\x86\Debug\OrnekUygulama.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\OrnekUygulama\OrnekUygulama\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\OrnekUygulama\OrnekUygulama\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\3.GÜN\OrnekUygulama\OrnekUygulama\obj\x86\Debug\OrnekUygulama.exe
